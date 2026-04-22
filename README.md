@@ -1,0 +1,2 @@
+# extensao-favoritos
+
