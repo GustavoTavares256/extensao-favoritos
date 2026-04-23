@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Dev Suite Interna",
+  "name": "Dev Suite CodXis",
   "version": "1.0",
   "description": "Ferramentas de produtividade para o time de dev.",
   "permissions": ["activeTab", "scripting", "storage", "clipboardWrite"],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "index.html"
   },
   "content_scripts": [
     {
