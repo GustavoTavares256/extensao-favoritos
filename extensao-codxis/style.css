@@ -11,10 +11,10 @@ body {
 }
 
 header h2 {
-    color: #00ff95; /* Verde neon */
+    color: #0066ff; /* Verde neon */
     font-size: 1.2rem;
     margin-bottom: 15px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #ffffff;
     padding-bottom: 10px;
     text-align: center;
 }

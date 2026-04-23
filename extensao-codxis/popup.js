@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const btnRepo = document.getElementById('btn-repo');
     if (btnRepo) {
         btnRepo.addEventListener('click', () => {
-            chrome.tabs.create({ url: 'https://github.com/GustavoTavares256' });
+            chrome.tabs.create({ url: 'https://github.com' });
         });
     }
 
